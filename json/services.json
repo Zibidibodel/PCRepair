@@ -1,0 +1,22 @@
+[
+  {
+    "name":"Hardware Repair",
+    "description":"Vivamus sollicitudin tellus sed risus feugiat, quis facilisis odio venenatis. Pellentesque malesuada malesuada cursus. Aliquam erat volutpat. Suspendisse potenti. Donec vehicula feugiat neque ut convallis. Donec nisi leo, venenatis in augue id, tempus placerat massa. Sed lacinia erat tellus, vel faucibus elit luctus eget.",
+    "price_range":"$100 - $200"
+  },
+  {
+    "name":"Virus Removal",
+    "description":"Duis vestibulum nulla fermentum arcu dignissim feugiat. Morbi convallis quam tellus, non auctor diam sollicitudin tristique. Nam feugiat tempus leo ac fringilla.",
+    "price_range":"$100 - $150"
+  },
+  {
+    "name":"PC Tune-Up",
+    "description":"Quisque sapien erat, congue ut eleifend in, dictum vitae tellus. Aliquam laoreet nunc vitae velit congue tincidunt.",
+    "price_range":"$75 - $100"
+  },
+  {
+    "name":"Network Services",
+    "description":" Vestibulum imperdiet risus vitae ipsum tempus malesuada. Etiam euismod tortor quis maximus fermentum. Mauris gravida justo ac molestie molestie.",
+    "price_range":"$500 - $1000"
+  }
+]
